@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm GURUPRASANTH</h1>
 <h3 align="center">Aspiring COMPUTER SCIENCE STUDENT</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">	
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasanth02&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasanth02" /> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
@@ -16,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/guru-prasanth-d-6b67a01ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guru-prasanth-d-6b67a01ab" height="30" width="40" /></a>
 <a href="https://instagram.com/_guru_prasanth_gp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_guru_prasanth_gp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guruprasanth12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guruprasanth12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guruharish128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guruharish128" height="30" width="40" /></a>
