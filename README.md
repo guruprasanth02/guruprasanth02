@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently exploring projects in **Artificial Intelligence and Machine Learning**
 
-- 🌱 Actively learning **Machine Learning** concepts and contributing to open-source
+- 🌱 Actively learning **Machine Learning** concepts
   
 - 💬 Ask me about **Python, Data Science, and ML libraries**
 
 - 📫 Reach me at: **guruharish128@gmail.com**
 
-- ⚡ Fun fact: *Code speaks many languages — and I'm always learning a new one!*
+- ⚡ Fun fact: *Code speaks many languages*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
