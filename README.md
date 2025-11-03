@@ -1,19 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm GURUPRASANTH</h1>
-<h3 align="center">Aspiring COMPUTER SCIENCE STUDENT</h3>
+<h3 align="center">Aspiring Computer Science Student | AI & ML EnthusiastT</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasanth02&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasanth02" /> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently exploring projects in **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Actively learning **Machine Learning** concepts and contributing to open-source
+  
+- 💬 Ask me about **Python, Data Science, and ML libraries**
 
-- 💬 Ask me about **Python**
+- 📫 Reach me at: **guruharish128@gmail.com**
 
-- 📫 How to reach me **guruharish128@gmail.com**
-
-- ⚡ Fun fact **Code speaks many Languages**
+- ⚡ Fun fact: *Code speaks many languages — and I'm always learning a new one!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
